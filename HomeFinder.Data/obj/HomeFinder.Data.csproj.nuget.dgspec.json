@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vemur\\Music\\HomeFinder\\HomeFinder.Data\\HomeFinder.Data.csproj": {}
+    "C:\\Users\\vemur\\OneDrive\\Documents\\GitHub\\HomeFinderAPI\\HomeFinder.Data\\HomeFinder.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vemur\\Music\\HomeFinder\\HomeFinder.Data\\HomeFinder.Data.csproj": {
+    "C:\\Users\\vemur\\OneDrive\\Documents\\GitHub\\HomeFinderAPI\\HomeFinder.Data\\HomeFinder.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vemur\\Music\\HomeFinder\\HomeFinder.Data\\HomeFinder.Data.csproj",
+        "projectUniqueName": "C:\\Users\\vemur\\OneDrive\\Documents\\GitHub\\HomeFinderAPI\\HomeFinder.Data\\HomeFinder.Data.csproj",
         "projectName": "HomeFinder.Data",
-        "projectPath": "C:\\Users\\vemur\\Music\\HomeFinder\\HomeFinder.Data\\HomeFinder.Data.csproj",
+        "projectPath": "C:\\Users\\vemur\\OneDrive\\Documents\\GitHub\\HomeFinderAPI\\HomeFinder.Data\\HomeFinder.Data.csproj",
         "packagesPath": "C:\\Users\\vemur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vemur\\Music\\HomeFinder\\HomeFinder.Data\\obj\\",
+        "outputPath": "C:\\Users\\vemur\\OneDrive\\Documents\\GitHub\\HomeFinderAPI\\HomeFinder.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vemur\\AppData\\Roaming\\NuGet\\NuGet.Config",

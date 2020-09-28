@@ -22,3 +22,15 @@ C:\Users\vemur\Music\HomeFinder\HomeFinder.Data\obj\Debug\netcoreapp3.1\HomeFind
 C:\Users\vemur\Music\HomeFinder\HomeFinder.Data\obj\Debug\netcoreapp3.1\HomeFinder.Data.pdb
 C:\Users\vemur\Music\HomeFinder\HomeFinder.Data\obj\Debug\netcoreapp3.1\HomeFinder.Data.genruntimeconfig.cache
 C:\Users\vemur\Music\HomeFinder\HomeFinder.Data\obj\Debug\netcoreapp3.1\HomeFinder.Data.csprojAssemblyReference.cache
+C:\Users\vemur\OneDrive\Documents\GitHub\HomeFinderAPI\HomeFinder.Data\bin\Debug\netcoreapp3.1\HomeFinder.Data.deps.json
+C:\Users\vemur\OneDrive\Documents\GitHub\HomeFinderAPI\HomeFinder.Data\bin\Debug\netcoreapp3.1\HomeFinder.Data.runtimeconfig.json
+C:\Users\vemur\OneDrive\Documents\GitHub\HomeFinderAPI\HomeFinder.Data\bin\Debug\netcoreapp3.1\HomeFinder.Data.runtimeconfig.dev.json
+C:\Users\vemur\OneDrive\Documents\GitHub\HomeFinderAPI\HomeFinder.Data\bin\Debug\netcoreapp3.1\HomeFinder.Data.dll
+C:\Users\vemur\OneDrive\Documents\GitHub\HomeFinderAPI\HomeFinder.Data\bin\Debug\netcoreapp3.1\HomeFinder.Data.pdb
+C:\Users\vemur\OneDrive\Documents\GitHub\HomeFinderAPI\HomeFinder.Data\obj\Debug\netcoreapp3.1\HomeFinder.Data.csprojAssemblyReference.cache
+C:\Users\vemur\OneDrive\Documents\GitHub\HomeFinderAPI\HomeFinder.Data\obj\Debug\netcoreapp3.1\HomeFinder.Data.AssemblyInfoInputs.cache
+C:\Users\vemur\OneDrive\Documents\GitHub\HomeFinderAPI\HomeFinder.Data\obj\Debug\netcoreapp3.1\HomeFinder.Data.AssemblyInfo.cs
+C:\Users\vemur\OneDrive\Documents\GitHub\HomeFinderAPI\HomeFinder.Data\obj\Debug\netcoreapp3.1\HomeFinder.Data.csproj.CoreCompileInputs.cache
+C:\Users\vemur\OneDrive\Documents\GitHub\HomeFinderAPI\HomeFinder.Data\obj\Debug\netcoreapp3.1\HomeFinder.Data.dll
+C:\Users\vemur\OneDrive\Documents\GitHub\HomeFinderAPI\HomeFinder.Data\obj\Debug\netcoreapp3.1\HomeFinder.Data.pdb
+C:\Users\vemur\OneDrive\Documents\GitHub\HomeFinderAPI\HomeFinder.Data\obj\Debug\netcoreapp3.1\HomeFinder.Data.genruntimeconfig.cache
